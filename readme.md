@@ -43,7 +43,7 @@ To run the Scheme programs in this repository, you will need a Scheme interprete
 1. Install Racket from the official website: [https://racket-lang.org/](https://racket-lang.org/)
 2. Clone this repository: `git clone https://github.com/your-username/scheme-programming-examples.git`
 3. Navigate to the repository directory: `cd scheme-programming-examples`
-4. Run any of the Scheme files using the Racket interpreter: `racket filename.scm`
+4. Run any of the Scheme files using the Racket interpreter: `racket --script filename.scm`
 
 Feel free to explore and modify the code as needed for your own learning and projects.
 
