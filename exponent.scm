@@ -1,3 +1,5 @@
+(require errortrace)
+(require racket/trace)
 (display "Calculate exponential of 8^2: ")
 (define (expo base exp)
     (if (= 0 exp)
